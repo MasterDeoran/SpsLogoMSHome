@@ -234,7 +234,7 @@
     <Figure type="1" opcode="2" blockNumber="6" position="666,263"/>
     <Figure type="1" opcode="34" blockNumber="7" position="716,343" boxShowState="true"/>
     <Figure type="1" opcode="1" blockNumber="8" position="296,373"/>
-    <Figure type="1" opcode="1" blockNumber="10" position="506,323"/>
+    <Figure type="1" opcode="1" blockNumber="10" position="486,323"/>
     <Figure type="1" opcode="2" blockNumber="11" position="286,223"/>
     <Figure type="1" opcode="7" blockNumber="12" position="136,203"/>
     <Figure type="4" direction="1" identifier="1754978240" partner="556288253" position="192,166"/>
@@ -244,7 +244,7 @@
     <Figure type="1" opcode="16777344" blockNumber="1" position="766,343"/>
     <Figure type="4" direction="0" identifier="357725376" partner="1207649709" position="180,253"/>
     <Figure type="4" direction="1" identifier="1207649709" partner="357725376" position="449,193"/>
-    <Figure type="1" opcode="2" blockNumber="14" position="566,313"/>
+    <Figure type="1" opcode="2" blockNumber="14" position="526,313"/>
     <Figure type="2">
       <Connector index="0" opcode="8" blockNumber="3" direction="0" type="0"/>
       <Connector index="0" opcode="16777280" blockNumber="2" direction="1" type="0"/>
@@ -410,9 +410,11 @@
       <Connector index="0" opcode="1" blockNumber="10" direction="1" type="0"/>
       <Points>
         <Point x="485" y="298"/>
-        <Point x="492" y="298"/>
-        <Point x="492" y="328"/>
-        <Point x="500" y="328"/>
+        <Point x="510" y="298"/>
+        <Point x="510" y="309"/>
+        <Point x="470" y="309"/>
+        <Point x="470" y="328"/>
+        <Point x="480" y="328"/>
       </Points>
     </Figure>
     <Figure type="2">
@@ -508,9 +510,9 @@
         <Point x="797" y="358"/>
         <Point x="799" y="358"/>
         <Point x="799" y="429"/>
-        <Point x="490" y="429"/>
-        <Point x="490" y="358"/>
-        <Point x="500" y="358"/>
+        <Point x="478" y="429"/>
+        <Point x="478" y="358"/>
+        <Point x="480" y="358"/>
       </Points>
     </Figure>
     <Figure type="2">
@@ -547,17 +549,17 @@
       <Connector index="0" opcode="1" blockNumber="10" direction="0" type="0"/>
       <Connector index="2" opcode="2" blockNumber="14" direction="1" type="0"/>
       <Points>
-        <Point x="537" y="338"/>
-        <Point x="550" y="338"/>
-        <Point x="550" y="338"/>
-        <Point x="560" y="338"/>
+        <Point x="517" y="338"/>
+        <Point x="518" y="338"/>
+        <Point x="518" y="338"/>
+        <Point x="520" y="338"/>
       </Points>
     </Figure>
     <Figure type="2">
       <Connector index="0" opcode="2" blockNumber="14" direction="0" type="0"/>
       <Connector index="1" opcode="34" blockNumber="5" direction="1" type="0"/>
       <Points>
-        <Point x="597" y="328"/>
+        <Point x="557" y="328"/>
         <Point x="603" y="328"/>
         <Point x="603" y="268"/>
         <Point x="610" y="268"/>
@@ -568,9 +570,9 @@
       <Connector index="3" opcode="2" blockNumber="14" direction="1" type="0"/>
       <Points>
         <Point x="64" y="126"/>
-        <Point x="540" y="126"/>
-        <Point x="540" y="348"/>
-        <Point x="560" y="348"/>
+        <Point x="518" y="126"/>
+        <Point x="518" y="348"/>
+        <Point x="520" y="348"/>
       </Points>
     </Figure>
     <Figure type="2">
@@ -634,6 +636,17 @@
         <Point x="878" y="486"/>
       </Points>
     </Figure>
+    <Figure type="1" opcode="16778178" blockNumber="-1" position="506,473"/>
+    <Figure type="2">
+      <Connector index="0" opcode="16778178" blockNumber="-1" direction="0" type="0"/>
+      <Connector index="0" opcode="68" blockNumber="15" direction="1" type="0"/>
+      <Points>
+        <Point x="537" y="488"/>
+        <Point x="620" y="488"/>
+        <Point x="620" y="478"/>
+        <Point x="700" y="478"/>
+      </Points>
+    </Figure>
     <Figure type="2">
       <Connector opcode="34" blockNumber="5" identifier="Ta" direction="0" type="2"/>
       <Connector opcode="68" blockNumber="15" identifier="P1" direction="1" type="2"/>
@@ -644,17 +657,6 @@
         <Point x="650" y="419"/>
         <Point x="650" y="545"/>
         <Point x="663" y="545"/>
-      </Points>
-    </Figure>
-    <Figure type="1" opcode="16778178" blockNumber="-1" position="506,473"/>
-    <Figure type="2">
-      <Connector index="0" opcode="16778178" blockNumber="-1" direction="0" type="0"/>
-      <Connector index="0" opcode="68" blockNumber="15" direction="1" type="0"/>
-      <Points>
-        <Point x="537" y="488"/>
-        <Point x="620" y="488"/>
-        <Point x="620" y="478"/>
-        <Point x="700" y="478"/>
       </Points>
     </Figure>
   </Figures>
