@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CustomizeFiles>
+    <CustomizeComponent xmlFileName="E:\Program Files\lwe\lwe\buildInCustomizeComponents\analogValue\comp.xml" count="6">
+        <ComponentIDs>
+            <ComponentID>4063b923fd069155b962</ComponentID>
+            <ComponentID>48c38d2a9f439d03e80c</ComponentID>
+            <ComponentID>4b888e5d8ac1343109be</ComponentID>
+            <ComponentID>4687be5b3ffe1006c344</ComponentID>
+            <ComponentID>447180466e2d98e2b528</ComponentID>
+            <ComponentID>41a38ffa8365a30283c2</ComponentID>
+            <ComponentID>427ebf18d7ba4e5907fa</ComponentID>
+            <ComponentID>4a7b88e21e7bec2656d3</ComponentID>
+            <ComponentID>4153891afa8a3baa1402</ComponentID>
+        </ComponentIDs>
+        <Files>
+            <File>js\anavalue.js</File>
+        </Files>
+    </CustomizeComponent>
+</CustomizeFiles>

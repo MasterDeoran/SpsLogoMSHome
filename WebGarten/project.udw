@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <tProjectObj>
-    <name>Web_Garten</name>
+    <name>WebGarten</name>
     <pages>
         <pageName>main</pageName>
-        <pageTitle>Home Page</pageTitle>
+        <pageTitle>Startseite</pageTitle>
     </pages>
     <pages>
         <pageName>nav</pageName>
@@ -14,8 +14,8 @@
         <pageTitle>tagtable</pageTitle>
     </pages>
     <resolution>
-        <height>1080</height>
-        <width>1920</width>
+        <height>900</height>
+        <width>1440</width>
     </resolution>
     <version>V1.1.0</version>
     <type>Siemens</type>
